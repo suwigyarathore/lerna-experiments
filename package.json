@@ -1,7 +1,11 @@
 {
   "name": "root",
   "private": true,
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
+    "jest": "^24.9.0",
     "lerna": "^3.20.2"
   }
 }
